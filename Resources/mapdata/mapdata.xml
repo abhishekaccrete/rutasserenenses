@@ -1,0 +1,2199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+  <Placemark>
+  	<category>familiar</category>
+    <name>Banco de Chile - La Serena</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-71.250114,-29.903013,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+  	<category>otros</category>
+    <name>HOLA SOY UN PUNTO</name>
+    <description><![CDATA[<div dir="ltr">omg<br>asdf<br>ororbrobrror</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-71.246681,-29.906139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250801,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW</phone>
+    <address>WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <!--DUMMY POINTS-->
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>artesanal</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://iifaem.files.wordpress.com/2007/11/cazuela-de-flores.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>bohemia</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.mygourmetconnection.com/wine-spirits/cooking-with-spirits/img/chocolate-chile-bohemia-ice-cream.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>cultural</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://2.bp.blogspot.com/-liqg0S_3oTE/UKlKZqpu90I/AAAAAAAAAB8/7t6wvahnsL4/s1600/21-de-mayo-dia-mundial-de-la-diversidad-cultural-para-el-dialogo-y-el-desarrollo_18631.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>familiar</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://3.bp.blogspot.com/_n5U8UZXnmpU/S9d6jzg-7HI/AAAAAAAAAAM/LUTV1ywH2e4/s1600/dia-de-las-madres-convivencia-familiar-10-ere-hania-quiquin-emmanuel-miry1.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>gastronomica</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://i.imgur.com/gWwcM0E.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>vinos</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://www.codicasa.com/archivos/wpsc/product_images/cdc_0037601016.png</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  <Placemark>
+    <!-- GOOGLE GENERATED TAGS -->
+    <name>Soy un local furioso 2</name>
+    <description><![CDATA[<div dir="ltr">ROAR SOY UN <br>LOCAL :3</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.250901,-29.905096,0.000000</coordinates>
+    </Point>
+    <!-- MANUAL ADDED REQUIRED TAGS -->
+  	<category>otros</category><!--Posible categories: artesanal,bohemia,cultural,familiar,gastronomica,vinos,otros-->
+    <phone>078343336</phone>
+    <address>La serena en alguna parte</address>
+    <!-- MANUAL ADDED OPTIONAL TAGS -->
+    <picture>http://allisonnazarian.com/wp-content/uploads/2012/02/random.jpg</picture>
+    <website>http://www.mrjack.cl/</website>
+    <email>comida@nom.com</email>
+  </Placemark>
+  
+</Document>
