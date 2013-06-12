@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=Trunk
+android/abi=armeabi
+android/distribute_path=C\:\\Users\\Mizardo\\Desktop\\temprutas
+android/keystore_alias=rutas serenenses
+android/keystore_password=lemuria79
+android/keystore_path=D\:\\SVN\\rutasserenenses\\Other Files\\certificates\\android\\com.test.rutasserenenses
+android/recent_output=C\:\\Users\\Mizardo\\Desktop\\temprutas
+android/sdk_version=Google APIs (Android 2.2)
+eclipse.preferences.version=1
